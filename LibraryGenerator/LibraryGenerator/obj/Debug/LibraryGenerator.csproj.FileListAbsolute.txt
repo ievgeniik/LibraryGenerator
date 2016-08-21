@@ -1,0 +1,6 @@
+D:\Documents\frog\NICE\c#Training\LibraryGenerator\LibraryGenerator\bin\Debug\LibraryGenerator.exe.config
+D:\Documents\frog\NICE\c#Training\LibraryGenerator\LibraryGenerator\bin\Debug\LibraryGenerator.exe
+D:\Documents\frog\NICE\c#Training\LibraryGenerator\LibraryGenerator\bin\Debug\LibraryGenerator.pdb
+D:\Documents\frog\NICE\c#Training\LibraryGenerator\LibraryGenerator\obj\Debug\LibraryGenerator.csprojResolveAssemblyReference.cache
+D:\Documents\frog\NICE\c#Training\LibraryGenerator\LibraryGenerator\obj\Debug\LibraryGenerator.exe
+D:\Documents\frog\NICE\c#Training\LibraryGenerator\LibraryGenerator\obj\Debug\LibraryGenerator.pdb
